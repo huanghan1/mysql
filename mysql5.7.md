@@ -1,5 +1,7 @@
 mysql 5.7 安装
 
+详情：https://blog.claves.me/2017/03/14/update-mysql5-6-to-mysql5-7-on-centos7/
+
 1.下载mysql57 yum源
 
 wget -i -c http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
