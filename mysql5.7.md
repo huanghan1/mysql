@@ -4,6 +4,9 @@ mysql 5.7 安装
 
 wget -i -c http://dev.mysql.com/get/mysql57-community-release-el7-10.noarch.rpm
 
+   5.6 yum源安装 
+      wget http://dev.mysql.com/get/mysql-community-release-el7-5.noarch.rpm
+
 2.安装
 
 yum -y install mysql57-community-release-el7-10.noarch.rpm  
