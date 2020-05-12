@@ -47,6 +47,10 @@ update mysql.user set Host='%' where HOST='localhost' and User='root';
   
 flush privileges;
 
+# mysqld --initialize-insecure --user=mysql --basedir=/usr/local/mysql --datadir=/usr/local/mysql/data
+
+# systemctl start mysqld
+
 
 
 
